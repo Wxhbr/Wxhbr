@@ -20,4 +20,4 @@ const julioCezar = {
 }
 ```
 
-### <em>Thank you for visiting my profile and if u want to talk a little more, dont be shy, just send me a chat.</em>
+### <em>Thank you for visiting my profile. If you'd like to know a little more about me, please send me a message.</em>
