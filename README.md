@@ -13,7 +13,7 @@ Studying Web Development at <a href="https://www.betrybe.com/">Trybe</a></br>
 
 ```javascript
 const julioCezar = {
-  code: [Javascript, HTML, CSS, Java, C#],
+  code: [Typescript, Javascript, HTML, CSS, Java, C#],
   tools: [React, Redux, Node, Jest, Mongodb, MySql, Context, Hooks],
   passions: [Soccer, Dance, Family, Games, Coding],
   learning: [Express, SOLID, MVC, socket.io]
